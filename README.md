@@ -14,3 +14,7 @@ const dataSource = new DataSource({
     logging: false,
     entities: [TareaEntity],
 });
+
+Para ejecucion rapida es 
+npm install
+node server.js
